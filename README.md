@@ -5,7 +5,7 @@
 
 | 工具名稱 | 功能描述 | 線上使用 |
 | :--- | :--- | :--- |
-| **🚀 Flow-Designer** | 高質感玻璃擬態流程圖產生器，支援 PNG 匯出。 | [立即使用](https://lyt-ting.github.io/flow-designer/) |
+| **🚀 Flow-Designer** | 流程圖產生器，支援 PNG 匯出。 | [立即使用](https://lyt-ting.github.io/flow-designer/) |
 | **📊 Org-Chart** | 視覺化組織圖工具，快速生成清晰的團隊結構。 | [立即使用](https://lyt-ting.github.io/org-chart-visualizer/) |
 
 ---
