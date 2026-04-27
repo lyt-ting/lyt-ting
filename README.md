@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 嗨，我是 Ting！
 
-<!--
-**lyt-ting/lyt-ting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ 我的專屬 IT 工具箱
+這裡是我的幾個小工具，點擊連結即可直接使用：
 
-Here are some ideas to get you started:
+| 工具名稱 | 功能描述 | 線上使用 |
+| :--- | :--- | :--- |
+| **🚀 Flow-Designer** | 高質感玻璃擬態流程圖產生器，支援 PNG 匯出。 | [立即使用](https://lyt-ting.github.io/flow-designer/) |
+| **📊 Org-Chart** | 視覺化組織圖工具，快速生成清晰的團隊結構。 | [立即使用](https://lyt-ting.github.io/org-chart-visualizer/) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 技術棧 (Tech Stack)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
