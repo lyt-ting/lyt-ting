@@ -5,10 +5,10 @@
 
 | 工具名稱 | 功能描述 | 線上使用 |備註|
 | :--- | :--- | :--- | :--- |
-| **📐 faq-design-tool** | 內部FAQ設計，包含選單分類、問答題目，請完成後匯出成文件，自行留存或提供給IT做系統更新。| [立即使用](https://lyt-ting.github.io/faq-design-tool/) |備註: 匯出的文件，可於下次匯入後，繼續編輯。|
-| **🚀 Flow-Designer** | 線性流程圖產生器，可調整步驟、顏色、iocn，並支援 PNG 匯出。 | [立即使用](https://lyt-ting.github.io/flow-designer/) |
-| **📊 Org-Chart** | 視覺化組織圖工具，快速生成清晰的團隊結構。 | [立即使用](https://lyt-ting.github.io/org-chart-visualizer/) |
-| **📦 Gear-Hub** | 視覺化裝備管理系統，支援 Minecraft 風格格子與行程清單。 | [立即使用](https://lyt-ting.github.io/universal-gear-hub/) |
+| **📐 faq-design-tool** | 內部FAQ設計，包含選單分類、問答題目，請完成後匯出成文件，自行留存或提供給IT做系統更新。| [🔗](https://lyt-ting.github.io/faq-design-tool/) |備註: 匯出的文件，可於下次匯入後，繼續編輯。|
+| **🚀 Flow-Designer** | 線性流程圖產生器，可調整步驟、顏色、iocn，並支援 PNG 匯出。 | [🔗](https://lyt-ting.github.io/flow-designer/) |
+| **📊 Org-Chart** | 視覺化組織圖工具，快速生成清晰的團隊結構。 | [🔗](https://lyt-ting.github.io/org-chart-visualizer/) |
+| **📦 Gear-Hub** | 視覺化裝備管理系統，支援 Minecraft 風格格子與行程清單。 | [🔗](https://lyt-ting.github.io/universal-gear-hub/) |
 
 ---
 
